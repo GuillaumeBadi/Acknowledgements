@@ -6,5 +6,8 @@
 ### [Oracle Corporation](https://www.oracle.com/technetwork/security-advisory/cpuapr2018-3678067.html)
 ![Oracle Hall of Fame](https://github.com/mdisrail2468/Acknowledgements/blob/master/POC/Oracle_HOF.png)
 
+### [Trend Micro Inc.](https://success.trendmicro.com/vulnerability-response)
+![Trendmicro Hall of Fame](https://github.com/mdisrail2468/Acknowledgements/blob/master/POC/TrendMicro_HOF.png)
+
 ### [AT&T Inc.](https://bugbounty.att.com/hof.php)
 ![AT&T Hall of Fame](https://github.com/mdisrail2468/Acknowledgements/blob/master/POC/AT%26T_HOF.png)
